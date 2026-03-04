@@ -1,0 +1,36 @@
+# --------------------
+# Python
+# --------------------
+__pycache__/
+*.py[cod]
+*.pyo
+
+# --------------------
+# Jupyter
+# --------------------
+.ipynb_checkpoints/
+
+# --------------------
+# Local development folder
+# --------------------
+Develop/
+
+# --------------------
+# OS files
+# --------------------
+.DS_Store
+
+# --------------------
+# Conda / venv
+# --------------------
+env/
+venv/
+.venv/
+conda_env/
+
+# --------------------
+# Model / cache (optional later)
+# --------------------
+*.pt
+*.pth
+*.ckpt
