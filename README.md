@@ -79,6 +79,5 @@ Protein1,3,0.0875
 
 ### Notes
 
-- The pretrained ESM2 model (`facebook/esm2_t33_650M_UR50D`) will be downloaded automatically during the first run.
 - Use `--gpu -1` for CPU inference.
 - GPU inference is recommended for faster embedding generation and prediction.
